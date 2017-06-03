@@ -1,0 +1,21 @@
+.header{
+	background-image: url(../img/NYC.jpg);
+	height: 1000px;
+}
+.line{
+	border: 2px solid white;
+	height: 2px;
+	width: 169px;
+	margin-left:300px;
+}
+.logo{
+	color:red;
+}
+.text{
+	color:red;
+	height: 1000px;
+	padding-top :900px;
+}
+.image{
+	height:1000px;
+}
